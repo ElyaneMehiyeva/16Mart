@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\16Mart\16Mart\bin\Debug\netcoreapp3.1\16Mart.exe
+C:\Users\User\Desktop\16Mart\16Mart\bin\Debug\netcoreapp3.1\16Mart.deps.json
+C:\Users\User\Desktop\16Mart\16Mart\bin\Debug\netcoreapp3.1\16Mart.runtimeconfig.json
+C:\Users\User\Desktop\16Mart\16Mart\bin\Debug\netcoreapp3.1\16Mart.runtimeconfig.dev.json
+C:\Users\User\Desktop\16Mart\16Mart\bin\Debug\netcoreapp3.1\16Mart.dll
+C:\Users\User\Desktop\16Mart\16Mart\bin\Debug\netcoreapp3.1\16Mart.pdb
+C:\Users\User\Desktop\16Mart\16Mart\obj\Debug\netcoreapp3.1\16Mart.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\16Mart\16Mart\obj\Debug\netcoreapp3.1\16Mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\16Mart\16Mart\obj\Debug\netcoreapp3.1\16Mart.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\16Mart\16Mart\obj\Debug\netcoreapp3.1\16Mart.AssemblyInfo.cs
+C:\Users\User\Desktop\16Mart\16Mart\obj\Debug\netcoreapp3.1\16Mart.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\16Mart\16Mart\obj\Debug\netcoreapp3.1\16Mart.dll
+C:\Users\User\Desktop\16Mart\16Mart\obj\Debug\netcoreapp3.1\16Mart.pdb
+C:\Users\User\Desktop\16Mart\16Mart\obj\Debug\netcoreapp3.1\16Mart.genruntimeconfig.cache
